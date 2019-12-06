@@ -1,2 +1,2 @@
 # Web-Scraping
-A tutorial to scrape any website in the world
+A tutorial that can be generalized to scrape any website in the world
